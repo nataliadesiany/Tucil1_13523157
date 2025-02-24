@@ -1,0 +1,7 @@
+AABB
+CCCB
+DDEE
+FFFE
+
+Waktu pencarian: 14 ms
+Banyak kasus yang ditinjau: 12

@@ -1,0 +1,6 @@
+AAA
+BBA
+CCC
+
+Waktu pencarian: 34 ms
+Banyak kasus yang ditinjau: 5

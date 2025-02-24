@@ -1,0 +1,8 @@
+AAABB
+CCCDB
+DDEEE
+EFFFE
+FFGGG
+
+Waktu pencarian: 39 ms
+Banyak kasus yang ditinjau: 18

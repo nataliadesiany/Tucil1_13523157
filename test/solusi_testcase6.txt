@@ -1,0 +1,7 @@
+AAAB
+BBCC
+DDDC
+EEEE
+
+Waktu pencarian: 37 ms
+Banyak kasus yang ditinjau: 10
